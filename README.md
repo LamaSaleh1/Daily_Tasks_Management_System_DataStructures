@@ -21,7 +21,7 @@ The core of this system is built on a **Singly Linked List**, which was chosen t
 * **Development Environment:** VS Code / C++ Compiler.
 
 ## 📂 Repository Structure
-* **[📁 Source Code](./src):**: The complete source code implementing the `ToDoList` class and linked list logic.
+* **[📁 Source Code](./src)**: The complete source code implementing the `ToDoList` class and linked list logic.
 * **[📁 Report.pdf](./Daily_Tasks_Management_System_Report.pdf)**: Detailed technical report covering the design, implementation, and conclusion.
 
 ---
